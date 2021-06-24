@@ -1,0 +1,2 @@
+# Hangman
+As the name suggests this is a Hangman game which randomly selects a word (via import random) from an external python file which is imported called words.py. The user is given 10 lives and has to try and guess the word before they run out of lives which at that point would cause them to lose. Although simple, the program demonstrates knowledge of packages, iteration (while loop), selection, use of lists and the use of functions like [valid_word()] to make the program easier to follow
